@@ -39,8 +39,8 @@ Built a dynamic Bike Sales Dashboard combining all pivot charts with slicers, en
 Remove Duplicates · Find & Replace · Nested IF · VLOOKUP · COUNTIFS · AVERAGEIFS · Pivot Tables · Pivot Charts · Slicers · Dashboard Design
 
 ## Repository Structure
-└── README.md                 # Project documentation
-├── Excel_Project.xlsx        # Full workbook with all sheets (raw data, working sheet, lookup table, pivot tables, business questions, dashboard)
+├── README.md                 # Project documentation
+└── Excel_Project.xlsx        # Full workbook with all sheets (raw data, working sheet, lookup table, pivot tables, business questions, dashboard)
 
 ## Key Insights
 - 188 male customers with an income above 60,000 purchased a bike
